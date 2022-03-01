@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iremelhan
 - 👀 I’m interested in HTML, CSS, Bootstrap, JS, DOM, AJAX, API, Mongo, Node and so on. 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and React Native.
 - 💞️ I’m looking to collaborate on web developers.
 - 📫 How to reach me iremelhaan@gmail.com
 
